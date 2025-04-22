@@ -1,0 +1,4 @@
+#Tue Apr 22 20:34:14 BDT 2025
+base.0=C\:\\Users\\atefs\\OneDrive\\Desktop\\bashirs project\\ecom\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
